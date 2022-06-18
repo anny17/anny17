@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pawan Dubey
 - 👀 I’m interested in ML and Stock market
-- 🌱 I’m currently learning ML and Data Structures
-- 💞️ I’m looking to collaborate on ML
+- 🌱 I’m currently learning Data Structures
 - 📫 How to reach me https://www.linkedin.com/in/pawan-dubey-750796148/
 
 <!---
